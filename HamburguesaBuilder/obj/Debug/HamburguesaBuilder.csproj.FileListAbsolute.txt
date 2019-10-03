@@ -1,0 +1,7 @@
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\bin\Debug\HamburguesaBuilder.exe.config
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\bin\Debug\HamburguesaBuilder.exe
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\bin\Debug\HamburguesaBuilder.pdb
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\obj\Debug\HamburguesaBuilder.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\obj\Debug\HamburguesaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\obj\Debug\HamburguesaBuilder.exe
+C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\HamburguesaBuilder\obj\Debug\HamburguesaBuilder.pdb
