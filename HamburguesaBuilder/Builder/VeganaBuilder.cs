@@ -13,6 +13,7 @@ namespace HamburguesaBuilder.Builder
         {
             _hamburguesa = new Hamburguesa
             {
+                Tipo = "Hamburguesa",
                 Carne = carne,
                 Pan = pan,
                 Nombre = "Vegana",

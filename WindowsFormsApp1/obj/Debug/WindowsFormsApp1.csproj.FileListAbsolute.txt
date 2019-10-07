@@ -12,3 +12,17 @@ C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\WindowsFormsApp1\obj\Debu
 C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Luis Zermeño\source\repos\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\bin\Debug\HamburguesaBuilder.exe
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\bin\Debug\HamburguesaBuilder.pdb
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\bin\Debug\HamburguesaBuilder.exe.config
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Luis Zermeño\source\repos\Hamburguesa2\HamburguesaBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

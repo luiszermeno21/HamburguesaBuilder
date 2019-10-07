@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace HamburguesaBuilder.Models
 {
-    public class Hamburguesa
+    public class Hamburguesa : Food
     {
+        public string Tipo { get; set; }
         public string Nombre { get; set; }
         public PanEnum Pan { get; set; }
         public List<string> Ingredientes { get; set; }
@@ -34,6 +35,14 @@ namespace HamburguesaBuilder.Models
         public override string ToString()
         {
             return $"Hamburguesa {Nombre} / Pan: {Pan}, Carne: {Carne}, Papas: {Papas}, Ingredientes: {string.Join("+", Ingredientes)}, Precio: {Precio}";
+        }
+
+        public string Descripción()
+        {
+            if (Papas == "SI")
+                return $"Deliciosa Hamburguesa con carne {Carne} y: {string.Join(", ", Ingredientes)}, en un pan {Pan}, acompañado con Papas";
+            else
+                return $"Deliciosa Hamburguesa con carne {Carne} y: {string.Join(", ", Ingredientes)}, en un pan {Pan}";
         }
     }
 }

@@ -14,6 +14,7 @@ namespace HamburguesaBuilder.Builder
         {
             _hamburguesa = new Hamburguesa
             {
+                Tipo = "Hamburguesa",
                 Carne = carne,
                 Pan = pan,
                 Nombre = "Mexicana",
@@ -41,6 +42,6 @@ namespace HamburguesaBuilder.Builder
             _hamburguesa.Ingredientes.Add("Lechuga");
             _hamburguesa.Ingredientes.Add("Aguacate");
             _hamburguesa.Ingredientes.Add("Queso Asadero");
-    }
+        }
     }
 }
